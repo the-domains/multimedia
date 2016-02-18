@@ -1,0 +1,28 @@
+name: Multimedia
+favicon: null
+layout_spectrum: 0.18140270072035491
+typography_spectrum: 0.8421979849226773
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.45429236604832113
+  lightness: 0.3785563982091844
+  saturation: 0.4676243814174086
+  rhythmicContrast: 0.9413437887560576
+purpose: []
