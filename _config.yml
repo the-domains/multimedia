@@ -1,4 +1,7 @@
-layout_spectrum: 0
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -18,23 +21,20 @@ collections:
 purpose: []
 color:
   saturation: 0.4676243814174086
-  brandStrength: 0.4542923660483211
-  rhythmicContrast: 0.9413437887560576
-  brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+  brandStrength: 1
   lightness: 0.3785563982091844
+  brandColors:
+    - '#B5BCBD'
+    - '#202027'
+    - '#305388'
+    - '#936D39'
+    - '#B49B88'
+  rhythmicContrast: 0.9413437887560576
 typography_spectrum: 0.3249194
 cta:
   bucket: null
   version: null
   domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+layout_spectrum: 0
 favicon: null
 name: Multimedia
